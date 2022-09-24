@@ -1,0 +1,16 @@
+D:\C#\Собес\bin\Debug\net5.0\Собес.exe
+D:\C#\Собес\bin\Debug\net5.0\Собес.deps.json
+D:\C#\Собес\bin\Debug\net5.0\Собес.runtimeconfig.json
+D:\C#\Собес\bin\Debug\net5.0\Собес.runtimeconfig.dev.json
+D:\C#\Собес\bin\Debug\net5.0\Собес.dll
+D:\C#\Собес\bin\Debug\net5.0\ref\Собес.dll
+D:\C#\Собес\bin\Debug\net5.0\Собес.pdb
+D:\C#\Собес\obj\Debug\net5.0\Собес.csproj.AssemblyReference.cache
+D:\C#\Собес\obj\Debug\net5.0\Собес.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Собес\obj\Debug\net5.0\Собес.AssemblyInfoInputs.cache
+D:\C#\Собес\obj\Debug\net5.0\Собес.AssemblyInfo.cs
+D:\C#\Собес\obj\Debug\net5.0\Собес.csproj.CoreCompileInputs.cache
+D:\C#\Собес\obj\Debug\net5.0\Собес.dll
+D:\C#\Собес\obj\Debug\net5.0\ref\Собес.dll
+D:\C#\Собес\obj\Debug\net5.0\Собес.pdb
+D:\C#\Собес\obj\Debug\net5.0\Собес.genruntimeconfig.cache
